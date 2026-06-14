@@ -1,5 +1,4 @@
 ## 👋 Hello, welcome to my GitHub profile!
--------
 
 # 💫 About Me:
 I’m a Computer Science student at ELTE with a strong interest in data and business analytics. 📊
