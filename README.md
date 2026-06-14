@@ -1,3 +1,6 @@
+## 👋 Hello, welcome to my GitHub profile!
+-------
+
 # 💫 About Me:
 I’m a Computer Science student at ELTE with a strong interest in data and business analytics. 📊
 
@@ -21,6 +24,13 @@ I’m fluent in English and Khmer, with basic knowledge of German. I value clear
 
 - 🗄️ SQL Analysis Projects  
   Conducted sales data analysis using SQL, including cohort analysis, customer retention tracking, and customer segmentation to understand user behavior and business patterns.
+  
+
+## 🎯 Currently Looking For
+- Data Analyst Internship
+- Junior BI / Data roles
+- Business Analyst roles
+- Remote or hybrid opportunities 
 
 
 # 💻 Tech Stack:
