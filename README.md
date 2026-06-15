@@ -10,7 +10,7 @@ I’m actively looking for professional opportunities where I can apply and furt
 I’m fluent in English and Khmer, with basic knowledge of German. I value clear communication and enjoy working in teams where ideas and learning are shared. ✨
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithona-khay-b82667404) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaymithona@gmail.com)
 
 ## 📌 Featured Projects
